@@ -7,9 +7,6 @@ ttttt=0.7
 def end():
 	print('\n没想到...你真的...NB!!!')
 
-def coin2mn(coin):
-	return coin/1000
-
 def level_1():
 	money=[25,50,100,300,500]
 	four=4
